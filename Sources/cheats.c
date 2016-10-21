@@ -16,6 +16,6 @@ void	exceptSharpness(void)
 
 void	code2(void)
 {
-	do_something
+	//do_something
 }
 
